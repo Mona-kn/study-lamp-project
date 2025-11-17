@@ -4,6 +4,6 @@
 
 
 # Technology Used
-**HTML
-**Tailwindcss
-**javascript
+- HTML
+- Tailwindcss
+- javascript
