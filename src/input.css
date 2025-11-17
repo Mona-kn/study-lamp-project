@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Vazirmatn';
+  src: url('../font/Vazirmatn-FD-Regular.woff2');
+}
